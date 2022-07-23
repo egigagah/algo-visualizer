@@ -2,7 +2,8 @@
   "name": "algo-visualizer",
   "version": "0.0.57",
   "scripts": {
-    "update-packages": "bun bun --use next"
+    "update-packages": "bun bun --use next",
+    "build": "next build"
   },
   "dependencies": {
     "next": "12.1.3",
